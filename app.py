@@ -20,7 +20,7 @@ st.markdown("---")
 
 # Image or GIF (optional)
 
-st.image("images\download.gif", use_container_width=True)
+st.image(r"images\download.gif", use_container_width=True)
 
 
 # Introduction
