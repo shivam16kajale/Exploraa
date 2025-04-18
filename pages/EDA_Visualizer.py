@@ -166,5 +166,5 @@ else:
     st.title("📊 Exploratory Data Analysis")
     st.markdown("Upload your dataset from the sidebar to begin your data Exploration.")
     st.info("Accepted formats: CSV or Excel")
-    st.image(r'images\download.gif',use_container_width=True)
+    
 
