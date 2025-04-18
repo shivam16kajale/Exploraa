@@ -18,9 +18,6 @@ st.markdown("<h3 style='text-align: center; color: gray;'>Learn Exploratory Data
 
 st.markdown("---")
 
-# Image or GIF (optional)
-
-st.image(r"images\download.gif", use_container_width=True)
 
 
 # Introduction
